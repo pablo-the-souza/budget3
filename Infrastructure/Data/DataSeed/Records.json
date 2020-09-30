@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Coles",
+    "Value": 20.45,
+    "Date": "2020-09-30T00:00:01",
+    "CategoryId": 1,
+    "Type": 1
+  },
+  {
+    "Name": "Translink",
+    "Value": 20,
+    "Date": "2020-09-30T00:00:01",
+    "CategoryId": 2,
+    "Type": 1
+  },
+  {
+    "Name": "Chatterbox",
+    "Value": 5,
+    "Date": "2020-09-30T00:00:01",
+    "CategoryId": 3,
+    "Type": 1
+  },
+  {
+    "Name": "Dance Culture",
+    "Value": 150,
+    "Date": "2020-09-29T00:00:01",
+    "CategoryId": 4,
+    "Type": 1
+  },
+  {
+    "Name": "Coles",
+    "Value": 16.47,
+    "Date": "2020-09-29T00:00:01",
+    "CategoryId": 1,
+    "Type": 1
+  }
+]
